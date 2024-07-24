@@ -1,5 +1,3 @@
-### Explicação Passo a Passo para o README.md
-
 ## Função getDoacao
 
 A função `getDoacao` é usada para criar uma entrada na entidade `notificacao` no Strapi com base nos dados fornecidos pelo evento. Esta função gera uma mensagem personalizada e um título dependendo dos campos presentes na entrada de dados.
